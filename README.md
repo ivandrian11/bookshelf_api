@@ -1,0 +1,2 @@
+# Bookshelf API
+This is a case study to perform CRUD in processing book data using [the Hapi Framework](https://hapi.dev/tutorials/?lang=en_US) and [JS Standard Style](https://standardjs.com/). It has been tested using [Postman](https://www.postman.com/) well. It is my submission to [the Dicoding course: Back-end for Beginner](https://www.dicoding.com/academies/261).
